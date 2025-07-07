@@ -11,4 +11,6 @@ dependencies:
   - rasterio
   - geopandas
   - jupyterlab
-  - earthengine-api 
+  - earthengine-api
+  - geemap
+  - rtree
