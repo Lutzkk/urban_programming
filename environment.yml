@@ -1,0 +1,14 @@
+name: ndvi-lst-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - matplotlib
+  - xarray
+  - rioxarray
+  - rasterio
+  - geopandas
+  - jupyterlab
+  - earthengine-api 
